@@ -1,0 +1,16 @@
+<!Doctype html>
+<html lang="fr">
+	<head>
+		
+		<meta charset="UTF-8" />
+		<title>Exercice 3 base de l'html</title>
+		
+	</head>
+	<body>
+		<h1>Titre de niveau 1</h1>
+		</br>
+		<p>Ceci est un paragraphe court</p>
+		</br>
+		<a href=“https://microlead.fr”>Lien vers le site Microlead.fr</a>
+	</body>
+</html>
